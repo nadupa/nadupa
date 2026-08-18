@@ -1,14 +1,7 @@
-<p align="center">
-  <img 
-    src="devops-banner.png" 
-    alt="Nadupa Sawanjith Bandara - DevOps & AIOps" 
-    width="100%"
-    border-radius="15%"
-  />
-</p>
+
 <div align="center">
 
-# 👋 Hi, I'm Nadupa Sawanjith
+# 👋 Hello World!, I'm Nadupa Sawanjith
 
 ### 🎓 BICT Undergraduate | ⚙️ DevOps & AIOps Enthusiast
 
