@@ -446,38 +446,6 @@ I'm interested in collaborating on:
 
 </p>
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nadupa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadupa&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/nadupa">
-<img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/nadupa-bandara">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
-</a>
-
-</p>
-
----
-
 # 🦇 Fun Fact
 
 <p align="center">
