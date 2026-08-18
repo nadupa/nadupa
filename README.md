@@ -16,19 +16,19 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Nadupa**, a **BICT undergraduate at the University of Sri
-Jayewardenepura**, passionate about **DevOps, AIOps, Cloud Computing,
-Automation, and modern infrastructure**.
+Hi! I'm **Nadupa Sawanjith Bandara**, a **BICT undergraduate at the University of Sri Jayewardenepura** and a **DevOps & AIOps enthusiast** passionate about cloud technologies, automation, and modern infrastructure.
 
-I'm currently focused on developing practical skills in building,
-deploying, automating, monitoring, and improving reliable and scalable
-systems.
+🔭 I’m currently studying at **University of Sri Jayewardenepura**
 
-🔭 I’m currently Studying At university of sri jayewardenepura
-🌱 I’m currently learning Linux, Python Automation, Docker, CI/CD, AWS & Kubernetes
-🤝 I’m looking for help with Advanced DevOps, Kubernetes
-👯 I’m looking to collaborate on DevOps,Cloud & Automation Projects
-💬 Ask me about Python, Linux, Git, Docker & DevOps
+🌱 I’m currently learning **Linux, Python Automation, Docker, CI/CD, AWS & Kubernetes**
+
+🤝 I’m looking to collaborate on **DevOps, Cloud & Automation Projects**
+
+📚 I’m looking for help with **Advanced DevOps & Kubernetes**
+
+💬 Ask me about **Python, Linux, Git, Docker & DevOps**
+
+🦇 Fun fact: **My friends call me Batman.**
 
 ---
 
@@ -313,53 +313,31 @@ Kibana
 
 <p align="center">
 
-🐧
-<b>Linux</b>
+🐧 <b>Linux</b>
 &nbsp;→&nbsp;
-
-🌐
-<b>Networking</b>
+🌐 <b>Networking</b>
 &nbsp;→&nbsp;
-
-🐍
-<b>Python</b>
+🐍 <b>Python</b>
 &nbsp;→&nbsp;
-
-🔀
-<b>Git</b>
+🔀 <b>Git</b>
 &nbsp;→&nbsp;
-
-🔄
-<b>CI/CD</b>
+🔄 <b>CI/CD</b>
 &nbsp;→&nbsp;
-
-🐳
-<b>Docker</b>
+🐳 <b>Docker</b>
 
 <br><br>
 
-☸️
-<b>Kubernetes</b>
+☸️ <b>Kubernetes</b>
 &nbsp;→&nbsp;
-
-🏗️
-<b>IaC</b>
+🏗️ <b>IaC</b>
 &nbsp;→&nbsp;
-
-☁️
-<b>Cloud</b>
+☁️ <b>Cloud</b>
 &nbsp;→&nbsp;
-
-📊
-<b>Observability</b>
+📊 <b>Observability</b>
 &nbsp;→&nbsp;
-
-🔐
-<b>DevSecOps</b>
+🔐 <b>DevSecOps</b>
 &nbsp;→&nbsp;
-
-🤖
-<b>AIOps</b>
+🤖 <b>AIOps</b>
 
 </p>
 
