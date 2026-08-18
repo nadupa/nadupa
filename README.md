@@ -24,25 +24,11 @@ I'm currently focused on developing practical skills in building,
 deploying, automating, monitoring, and improving reliable and scalable
 systems.
 
-🎓 BICT Undergraduate at **University of Sri Jayewardenepura**
-
-⚙️ **DevOps & AIOps Enthusiast**
-
-☁️ Interested in **Cloud & Infrastructure**
-
-🐍 Building automation with **Python**
-
-🐧 Learning **Linux & Bash**
-
-🐳 Exploring **Containerization**
-
-☸️ Learning **Kubernetes**
-
-🔄 Building **CI/CD pipelines**
-
-📊 Exploring **Monitoring & Observability**
-
-🤖 Interested in **AI-powered Operations**
+🔭 I’m currently Studying At university of sri jayewardenepura
+🌱 I’m currently learning Linux, Python Automation, Docker, CI/CD, AWS & Kubernetes
+🤝 I’m looking for help with Advanced DevOps, Kubernetes
+👯 I’m looking to collaborate on DevOps,Cloud & Automation Projects
+💬 Ask me about Python, Linux, Git, Docker & DevOps
 
 ---
 
