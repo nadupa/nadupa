@@ -4,21 +4,45 @@
 
 ### 🎓 BICT Undergraduate | ⚙️ DevOps & AIOps Enthusiast
 
-**Cloud • Automation • Infrastructure • Observability • Intelligent Operations**
+**☁️ Cloud • 🤖 Automation • 🏗️ Infrastructure • 📊 Observability**
 
-<img src="https://komarev.com/ghpvc/?username=nadupa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nadupa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-Hi! I'm **Nadupa**, a BICT undergraduate at the **University of Sri Jayewardenepura**, passionate about **DevOps, AIOps, Cloud Computing, Automation, and modern infrastructure**.
+Hi! I'm **Nadupa**, a **BICT undergraduate at the University of Sri
+Jayewardenepura**, passionate about **DevOps, AIOps, Cloud Computing,
+Automation, and modern infrastructure**.
 
-I'm focused on learning how to build, deploy, automate, monitor, and improve reliable and scalable systems.
+I'm currently focused on developing practical skills in building,
+deploying, automating, monitoring, and improving reliable and scalable
+systems.
 
-My current goal is to become an **industry-ready DevOps Engineer** and eventually specialize in **AIOps**.
+🎓 BICT Undergraduate at **University of Sri Jayewardenepura**
+
+⚙️ **DevOps & AIOps Enthusiast**
+
+☁️ Interested in **Cloud & Infrastructure**
+
+🐍 Building automation with **Python**
+
+🐧 Learning **Linux & Bash**
+
+🐳 Exploring **Containerization**
+
+☸️ Learning **Kubernetes**
+
+🔄 Building **CI/CD pipelines**
+
+📊 Exploring **Monitoring & Observability**
+
+🤖 Interested in **AI-powered Operations**
 
 ---
 
@@ -26,238 +50,377 @@ My current goal is to become an **industry-ready DevOps Engineer** and eventuall
 
 <p align="center">
 
-🐧 Linux & Bash   •  
-🐍 Python Automation   •  
-🔀 Git & GitHub   •  
+🐧 Linux & Bash &nbsp; • &nbsp;
+🐍 Python Automation &nbsp; • &nbsp;
+🔀 Git & GitHub &nbsp; • &nbsp;
 🐳 Docker
 
-<br><br>
+<br>
 
-🔄 CI/CD   •  
-☁️ Cloud   •  
-☸️ Kubernetes   •  
-🏗️ Infrastructure as Code
+🌐 Networking &nbsp; • &nbsp;
+🔄 CI/CD &nbsp; • &nbsp;
+☁️ Cloud &nbsp; • &nbsp;
+☸️ Kubernetes
 
-<br><br>
+<br>
 
-📊 Observability   •  
-🔐 DevSecOps   •  
+🏗️ Infrastructure as Code &nbsp; • &nbsp;
+📊 Observability &nbsp; • &nbsp;
+🔐 DevSecOps &nbsp; • &nbsp;
 🤖 AIOps
 
 </p>
 
 ---
 
-# 🛠️ DevOps Arsenal
+# 🛠️ DevOps & AIOps Tech Stack
 
-### 💻 Programming & Scripting
+### 🐧 01 — Linux & Operating Systems
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,c" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
 </p>
-
----
-
-### 🐧 Operating Systems & Version Control
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,gitlab" />
-</p>
-
----
-
-### 🐳 Containers & Orchestration
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</p>
-
-**Exploring:**
-
-`Docker Compose` • `Helm` • `Kubernetes`
-
----
-
-### 🔄 CI/CD & Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" />
-</p>
-
-**Exploring:**
-
-`Jenkins` • `GitHub Actions` • `GitLab CI/CD` • `Argo CD`
-
----
-
-### ☁️ Cloud Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-</p>
-
-**Primary focus:** AWS
-
-**Exploring:**
-
-`EC2` • `S3` • `IAM` • `VPC` • `CloudWatch`
-
----
-
-### 🏗️ Infrastructure as Code
-
-<p>
-<img src="https://skillicons.dev/icons?i=terraform,ansible" />
-</p>
-
-**Exploring:**
-
-`Terraform` • `Ansible`
-
----
-
-### 🌐 Networking & Web Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=nginx" />
-</p>
-
-**Exploring:**
-
-`Nginx` • `DNS` • `HTTP/HTTPS` • `Load Balancing` • `Reverse Proxy`
-
----
-
-### 📊 Monitoring & Observability
-
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
-
-**Exploring:**
-
-`Prometheus` • `Grafana` • `Alertmanager` • `Loki`
-
----
-
-### 📦 Databases & Messaging
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,redis,kafka" />
-</p>
-
-**Exploring:**
-
-`PostgreSQL` • `Redis` • `Apache Kafka`
-
----
-
-### 🔐 DevSecOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=gitlab,githubactions" />
-</p>
-
-**Exploring:**
-
-`SAST` • `DAST` • `Container Security` • `Secrets Management`
-
----
-
-### 🤖 AIOps & Intelligent Automation
 
 <p align="center">
 
-🤖 AI-assisted Operations
-📊 Intelligent Monitoring
-🔎 Anomaly Detection
-🚨 Automated Incident Detection
-⚙️ Automated Remediation
-📈 Predictive Infrastructure Analytics
+<code>Linux CLI</code> •
+<code>File Systems</code> •
+<code>Permissions</code> •
+<code>Processes</code> •
+<code>Package Management</code> •
+<code>System Monitoring</code> •
+<code>Logs</code>
 
 </p>
 
 ---
 
-# 🗺️ My DevOps Learning Path
+### 🌐 02 — Networking Fundamentals
 
-```text
-                    ┌───────────────┐
-                    │     Linux     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │ Python/Bash   │
-                    │  Automation   │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │ Git / GitHub  │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    Docker     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    CI / CD    │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │  AWS / Cloud  │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │  Kubernetes   │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │ Terraform /   │
-                    │   Ansible     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │ Observability │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │   DevSecOps   │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    AIOps 🤖   │
-                    └───────────────┘
-```
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nginx,aws" />
+</p>
+
+<p align="center">
+
+<code>TCP/IP</code> •
+<code>HTTP/HTTPS</code> •
+<code>DNS</code> •
+<code>OSI Model</code> •
+<code>Subnetting</code> •
+<code>Firewalls</code> •
+<code>Load Balancing</code> •
+<code>SSH</code> •
+<code>VPN</code>
+
+</p>
+
+**Tools:** Wireshark • AWS Route 53 • Nginx
+
+---
+
+### 🐍 03 — Programming & Scripting
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,c,go" />
+</p>
+
+<p align="center">
+
+<code>Python Automation</code> •
+<code>Bash Scripting</code> •
+<code>JSON</code> •
+<code>YAML</code> •
+<code>REST APIs</code>
+
+</p>
+
+**Exploring:** Go
+
+---
+
+### 🔀 04 — Version Control
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+<p align="center">
+
+<code>Git</code> •
+<code>Branching</code> •
+<code>Merging</code> •
+<code>Pull Requests</code> •
+<code>Code Reviews</code> •
+<code>GitHub</code> •
+<code>GitLab</code>
+
+</p>
+
+---
+
+### 🔄 05 — CI/CD & Automation
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" />
+</p>
+
+<p align="center">
+
+<code>CI/CD</code> •
+<code>Build Automation</code> •
+<code>Testing</code> •
+<code>Deployment</code> •
+<code>Artifact Management</code>
+
+</p>
+
+**Tools:** Jenkins • GitHub Actions • GitLab CI/CD • Argo CD
+
+---
+
+### 🐳 06 — Containers
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+<p align="center">
+
+<code>Docker</code> •
+<code>Dockerfile</code> •
+<code>Images</code> •
+<code>Containers</code> •
+<code>Docker Compose</code> •
+<code>Container Registries</code>
+
+</p>
+
+---
+
+### ☸️ 07 — Kubernetes & Orchestration
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+</p>
+
+<p align="center">
+
+<code>Pods</code> •
+<code>Deployments</code> •
+<code>Services</code> •
+<code>ConfigMaps</code> •
+<code>Secrets</code> •
+<code>Volumes</code> •
+<code>Ingress</code> •
+<code>Network Policies</code>
+
+</p>
+
+**Tools:** Kubernetes • Helm • kubectl • HPA • Auto Scaling
+
+---
+
+### 🏗️ 08 — Infrastructure as Code
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=terraform,ansible" />
+</p>
+
+<p align="center">
+
+<code>Infrastructure as Code</code> •
+<code>Terraform</code> •
+<code>Modules</code> •
+<code>State Management</code> •
+<code>Configuration Management</code>
+
+</p>
+
+**Tools:** Terraform • Ansible • AWS CloudFormation
+
+---
+
+### ☁️ 09 — Cloud Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+</p>
+
+<p align="center">
+
+<code>AWS</code> •
+<code>Azure</code> •
+<code>GCP</code> •
+<code>IAM</code> •
+<code>VPC</code> •
+<code>Security Groups</code> •
+<code>Compute</code> •
+<code>Storage</code> •
+<code>Databases</code>
+
+</p>
+
+**Exploring:** EC2 • S3 • IAM • VPC • CloudWatch • Auto Scaling
+
+---
+
+### 📊 10 — Monitoring, Security & AIOps
+
+#### 📈 Monitoring & Observability
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+<p align="center">
+
+<code>Prometheus</code> •
+<code>Grafana</code> •
+<code>Alertmanager</code> •
+<code>Metrics</code> •
+<code>Dashboards</code>
+
+</p>
+
+#### 📝 Centralized Logging
+
+<p align="center">
+
+🔎 <b>ELK Stack</b> &nbsp; • &nbsp;
+Elasticsearch &nbsp; • &nbsp;
+Logstash &nbsp; • &nbsp;
+Kibana
+
+</p>
+
+#### 🔐 DevSecOps
+
+<p align="center">
+
+🛡️ <code>Trivy</code> •
+🔑 <code>Secrets Management</code> •
+🔐 <code>IAM</code> •
+🐳 <code>Container Security</code>
+
+</p>
+
+#### 🤖 AIOps
+
+<p align="center">
+
+🤖 AI-Assisted Operations &nbsp; • &nbsp;
+🔎 Anomaly Detection &nbsp; • &nbsp;
+🚨 Intelligent Alerting
+
+<br>
+
+⚙️ Automated Remediation &nbsp; • &nbsp;
+📈 Predictive Monitoring &nbsp; • &nbsp;
+🧠 Intelligent Infrastructure
+
+</p>
+
+---
+
+# 🗺️ My DevOps Journey
+
+<p align="center">
+
+🐧
+<b>Linux</b>
+&nbsp;→&nbsp;
+
+🌐
+<b>Networking</b>
+&nbsp;→&nbsp;
+
+🐍
+<b>Python</b>
+&nbsp;→&nbsp;
+
+🔀
+<b>Git</b>
+&nbsp;→&nbsp;
+
+🔄
+<b>CI/CD</b>
+&nbsp;→&nbsp;
+
+🐳
+<b>Docker</b>
+
+<br><br>
+
+☸️
+<b>Kubernetes</b>
+&nbsp;→&nbsp;
+
+🏗️
+<b>IaC</b>
+&nbsp;→&nbsp;
+
+☁️
+<b>Cloud</b>
+&nbsp;→&nbsp;
+
+📊
+<b>Observability</b>
+&nbsp;→&nbsp;
+
+🔐
+<b>DevSecOps</b>
+&nbsp;→&nbsp;
+
+🤖
+<b>AIOps</b>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 📊 Excel Filter Application
+## 📊 Excel Filter App
 
 A web application for uploading, filtering, and searching Excel-based data.
 
-**Stack**
+**Tech Stack**
 
 `React` `FastAPI` `Python` `JavaScript`
 
-🔗 **[View Project](https://github.com/nadupa/excel-filter-app)**
+<p>
+<a href="https://github.com/nadupa/excel-filter-app">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 🐳 DevOps Automation Projects
+## 🐳 DevOps Projects — Coming Soon
 
-Currently building projects around:
+Currently working toward building practical projects involving:
 
-`Linux` • `Python` • `Docker` • `CI/CD` • `AWS` • `Kubernetes`
+<p align="center">
 
----
+🐧 Linux &nbsp; • &nbsp;
+🐍 Python &nbsp; • &nbsp;
+🐳 Docker &nbsp; • &nbsp;
+🔄 CI/CD
 
-### 🤖 Future AIOps Projects
+<br>
 
-Exploring projects involving:
+☁️ AWS &nbsp; • &nbsp;
+☸️ Kubernetes &nbsp; • &nbsp;
+🏗️ Terraform &nbsp; • &nbsp;
+📊 Monitoring
 
-`Monitoring` → `Logs` → `Metrics` → `Anomaly Detection` → `AI` → `Automated Response`
+<br>
+
+🔐 DevSecOps &nbsp; • &nbsp;
+🤖 AIOps
+
+</p>
 
 ---
 
@@ -265,62 +428,77 @@ Exploring projects involving:
 
 I'm interested in collaborating on:
 
-**DevOps • Cloud • Automation • CI/CD • Kubernetes • AIOps**
+<p align="center">
 
-If you're building something interesting, feel free to connect.
+⚙️ <b>DevOps</b>
+&nbsp; • &nbsp;
+☁️ <b>Cloud</b>
+&nbsp; • &nbsp;
+🐳 <b>Containerization</b>
+&nbsp; • &nbsp;
+🔄 <b>CI/CD</b>
+&nbsp; • &nbsp;
+☸️ <b>Kubernetes</b>
+&nbsp; • &nbsp;
+🤖 <b>AIOps</b>
+
+</p>
 
 ---
 
 # 💬 Ask Me About
 
-🐍 Python
-🐧 Linux
-🔀 Git
-🐳 Docker
+<p align="center">
+
+🐍 Python &nbsp; • &nbsp;
+🐧 Linux &nbsp; • &nbsp;
+🔀 Git &nbsp; • &nbsp;
+🐳 Docker &nbsp; • &nbsp;
 ⚙️ DevOps
-☁️ Cloud
+
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nadupa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadupa&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
-</div>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/nadupa">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
 </a>
 
-   
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/nadupa-bandara">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 # 🦇 Fun Fact
 
-<div align="center">
+<p align="center">
 
-### My friends call me **Batman** 🦇
+### My friends call me <b>Batman</b> 🦇
 
-*I work in the shadows.*
+<i>I work in the shadows.</i> 🌑
 
-</div>
+</p>
 
 ---
 
