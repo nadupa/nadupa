@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    src="./assets/devops-banner.png" 
+    alt="Nadupa Sawanjith Bandara - DevOps & AIOps" 
+    width="100%"
+  />
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Nadupa Sawanjith
