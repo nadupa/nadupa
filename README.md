@@ -36,24 +36,24 @@ Hi! I'm **Nadupa Sawanjith Bandara**, a **BICT undergraduate at the University o
 
 <p align="center">
 
-🐧 Linux & Bash &nbsp; • &nbsp;
-🐍 Python Automation &nbsp; • &nbsp;
-🔀 Git & GitHub &nbsp; • &nbsp;
-🐳 Docker
+<img src="https://skillicons.dev/icons?i=linux,python,git,github,docker,nginx,githubactions,aws,kubernetes,terraform,prometheus,grafana,ansible" />
 
-<br>
+</p>
 
-🌐 Networking &nbsp; • &nbsp;
-🔄 CI/CD &nbsp; • &nbsp;
-☁️ Cloud &nbsp; • &nbsp;
-☸️ Kubernetes
+<p align="center">
 
-<br>
-
-🏗️ Infrastructure as Code &nbsp; • &nbsp;
-📊 Observability &nbsp; • &nbsp;
-🔐 DevSecOps &nbsp; • &nbsp;
-🤖 AIOps
+<b>Linux & Bash</b> •
+<b>Python Automation</b> •
+<b>Git & GitHub</b> •
+<b>Docker</b> •
+<b>Networking</b> •
+<b>CI/CD</b> •
+<b>Cloud</b> •
+<b>Kubernetes</b> •
+<b>Infrastructure as Code</b> •
+<b>Observability</b> •
+<b>DevSecOps</b> •
+<b>AIOps</b>
 
 </p>
 
@@ -64,7 +64,9 @@ Hi! I'm **Nadupa Sawanjith Bandara**, a **BICT undergraduate at the University o
 ### 🐧 01 — Linux & Operating Systems
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+
 </p>
 
 <p align="center">
@@ -84,7 +86,9 @@ Hi! I'm **Nadupa Sawanjith Bandara**, a **BICT undergraduate at the University o
 ### 🌐 02 — Networking Fundamentals
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=nginx,aws" />
+
 </p>
 
 <p align="center">
@@ -108,7 +112,9 @@ Hi! I'm **Nadupa Sawanjith Bandara**, a **BICT undergraduate at the University o
 ### 🐍 03 — Programming & Scripting
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,bash,c,go" />
+
 </p>
 
 <p align="center">
@@ -128,7 +134,9 @@ Hi! I'm **Nadupa Sawanjith Bandara**, a **BICT undergraduate at the University o
 ### 🔀 04 — Version Control
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+
 </p>
 
 <p align="center">
@@ -148,7 +156,9 @@ Hi! I'm **Nadupa Sawanjith Bandara**, a **BICT undergraduate at the University o
 ### 🔄 05 — CI/CD & Automation
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" />
+
 </p>
 
 <p align="center">
@@ -168,7 +178,9 @@ Hi! I'm **Nadupa Sawanjith Bandara**, a **BICT undergraduate at the University o
 ### 🐳 06 — Containers
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=docker" />
+
 </p>
 
 <p align="center">
@@ -187,7 +199,9 @@ Hi! I'm **Nadupa Sawanjith Bandara**, a **BICT undergraduate at the University o
 ### ☸️ 07 — Kubernetes & Orchestration
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=kubernetes" />
+
 </p>
 
 <p align="center">
@@ -210,7 +224,9 @@ Hi! I'm **Nadupa Sawanjith Bandara**, a **BICT undergraduate at the University o
 ### 🏗️ 08 — Infrastructure as Code
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+
 </p>
 
 <p align="center">
@@ -230,7 +246,9 @@ Hi! I'm **Nadupa Sawanjith Bandara**, a **BICT undergraduate at the University o
 ### ☁️ 09 — Cloud Platforms
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+
 </p>
 
 <p align="center">
@@ -256,7 +274,9 @@ Hi! I'm **Nadupa Sawanjith Bandara**, a **BICT undergraduate at the University o
 #### 📈 Monitoring & Observability
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+
 </p>
 
 <p align="center">
@@ -349,14 +369,20 @@ Kibana
 
 A web application for uploading, filtering, and searching Excel-based data.
 
-**Tech Stack**
+### Tech Stack
 
-`React` `FastAPI` `Python` `JavaScript`
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,python,fastapi,javascript" />
+
+</p>
 
 <p>
+
 <a href="https://github.com/nadupa/excel-filter-app">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -367,22 +393,20 @@ Currently working toward building practical projects involving:
 
 <p align="center">
 
-🐧 Linux &nbsp; • &nbsp;
-🐍 Python &nbsp; • &nbsp;
-🐳 Docker &nbsp; • &nbsp;
-🔄 CI/CD
+<img src="https://skillicons.dev/icons?i=linux,python,docker,githubactions,aws,kubernetes,terraform,prometheus,grafana" />
 
-<br>
+</p>
 
-☁️ AWS &nbsp; • &nbsp;
-☸️ Kubernetes &nbsp; • &nbsp;
-🏗️ Terraform &nbsp; • &nbsp;
-📊 Monitoring
+<p align="center">
 
-<br>
-
-🔐 DevSecOps &nbsp; • &nbsp;
-🤖 AIOps
+<b>Linux</b> •
+<b>Python</b> •
+<b>Docker</b> •
+<b>CI/CD</b> •
+<b>AWS</b> •
+<b>Kubernetes</b> •
+<b>Terraform</b> •
+<b>Monitoring</b>
 
 </p>
 
