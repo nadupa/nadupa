@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nadupa Sawanjith Bandara
+# 👋 Hi, I'm Nadupa Sawanjith
 
 ### 🎓 BICT Undergraduate | ⚙️ DevOps & AIOps Enthusiast
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Nadupa Sawanjith Bandara**, a **BICT undergraduate at the University of Sri Jayewardenepura** and a **DevOps & AIOps enthusiast** passionate about cloud technologies, automation, and modern infrastructure.
+Hi! I'm **Nadupa Sawanjith Bandara Dunuwara**, a **BICT undergraduate at the University of Sri Jayewardenepura** and a **DevOps & AIOps enthusiast** passionate about cloud technologies, automation, and modern infrastructure.
 
 🔭 I’m currently studying at **University of Sri Jayewardenepura**
 
