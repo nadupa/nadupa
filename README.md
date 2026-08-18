@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./assets/devops-banner.png" 
+    src="devops-banner.png" 
     alt="Nadupa Sawanjith Bandara - DevOps & AIOps" 
     width="100%"
   />
