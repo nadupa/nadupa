@@ -3,6 +3,7 @@
     src="devops-banner.png" 
     alt="Nadupa Sawanjith Bandara - DevOps & AIOps" 
     width="100%"
+    border-radius="15%"
   />
 </p>
 <div align="center">
