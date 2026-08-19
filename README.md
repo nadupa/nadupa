@@ -27,8 +27,6 @@ Hi! I'm **Nadupa Sawanjith Bandara Dunuwara**, a **BICT undergraduate at the Uni
 
 💬 Ask me about **Python, Linux, Git, Docker & DevOps**
 
-🦇 Fun fact: **My friends call me Batman.**
-
 ---
 
 ## ⚡ What I'm Currently Exploring
