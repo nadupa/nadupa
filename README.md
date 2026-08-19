@@ -6,8 +6,6 @@
 </p>
 <div align="center">
 
-# 👋 Hello World!, I'm Nadupa Sawanjith
-
 ### 🎓 BICT Undergraduate | ⚙️ DevOps & AIOps Enthusiast
 
 **☁️ Cloud • 🤖 Automation • 🏗️ Infrastructure • 📊 Observability**
