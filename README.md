@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="hi-im-nadupa-devops-engineer.gif"
+    src="hi-im-nadupa-devops-engineer-fixed.gif"
     alt="Hi, I'm Nadupa Sawanjith Bandara"
   />
 </p>
