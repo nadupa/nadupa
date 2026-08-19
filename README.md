@@ -1,4 +1,9 @@
-
+<p align="center">
+  <img
+    src="./assets/hi-im-nadupa.gif"
+    alt="Hi, I'm Nadupa Sawanjith Bandara"
+  />
+</p>
 <div align="center">
 
 # 👋 Hello World!, I'm Nadupa Sawanjith
